@@ -1,7 +1,7 @@
 # vidsomething
 Shows your youtube-dl downloaded folder in a php catalog with thumbnails
 
-(Please don't expect anything serious from a random 59 line php script.)
+(Please don't expect anything serious from a random 115 line php script.)
 
 Use this to recreate a semblance of Youtube gui while watching videos downloaded using youtube-dl.
 
